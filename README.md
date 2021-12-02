@@ -18,3 +18,8 @@ python tranform.py  --region $REGION  --runner DataflowRunner  --project $PROJEC
 
  gcloud dataflow jobs run airbnb-2019-sweta-df-job12 --gcs-location gs://airbnb-ny-2019-sweta/templates/conversion_gcs_bq_16 --region us-east1
  ```
+
+ ### Libraries Required
+ * python 3.7+
+ * pip3 install apache-beam[gcp]
+ * pip3 install apache-beam[dataframe]

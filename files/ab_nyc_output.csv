@@ -1,0 +1,222 @@
+neighbourhood,id
+Allerton,843246032
+Arden Heights,117424776
+Arrochar,436262545
+Arverne,1639714804
+Astoria,17063055659
+Bath Beach,434364956
+Battery Park City,1281765831
+Bay Ridge,3112397452
+Bay Terrace,80627114
+"Bay Terrace, Staten Island",53423401
+Baychester,155089630
+Bayside,905515847
+Bayswater,457278509
+Bedford-Stuyvesant,71288376210
+Belle Harbor,201585232
+Bellerose,324634286
+Belmont,645675967
+Bensonhurst,1541898573
+Bergen Beach,231792684
+Boerum Hill,2739808155
+Borough Park,3358815601
+Breezy Point,90423040
+Briarwood,1246094265
+Brighton Beach,1746272715
+Bronxdale,416189922
+Brooklyn Heights,2596166952
+Brownsville,1306514376
+Bull's Head,175966870
+Bushwick,49887640020
+Cambria Heights,604869604
+Canarsie,3003025216
+Carroll Gardens,3506810147
+Castle Hill,297427859
+Castleton Corners,65446432
+Chelsea,21013667441
+Chinatown,6634423773
+City Island,408310376
+Civic Center,988559699
+Claremont Village,772788888
+Clason Point,417505671
+Clifton,286482059
+Clinton Hill,8878123024
+Co-op City,4426691
+Cobble Hill,1530136808
+College Point,458027566
+Columbia St,754719761
+Concord,530410218
+Concourse,970505706
+Concourse Village,629690953
+Coney Island,405739230
+Corona,1516940245
+Crown Heights,27447970869
+Cypress Hills,3053955804
+DUMBO,623298466
+Ditmars Steinway,5889645832
+Dongan Hills,185072181
+Douglaston,182201967
+Downtown Brooklyn,1661995434
+Dyker Heights,243750847
+East Elmhurst,4443302096
+East Flatbush,11022483875
+East Harlem,21095089838
+East Morrisania,245309629
+East New York,5176616579
+East Village,30873735370
+Eastchester,173633936
+Edenwald,342016862
+Edgemere,247553886
+Elmhurst,5522155708
+Eltingville,54122244
+Emerson Hill,106505609
+Far Rockaway,644218170
+Fieldston,218129499
+Financial District,18702789023
+Flatbush,11078328420
+Flatiron District,1384395814
+Flatlands,1716870457
+Flushing,9787067056
+Fordham,1657695241
+Forest Hills,2751714946
+Fort Greene,8083814582
+Fort Hamilton,1062379770
+Fort Wadsworth,20305160
+Fresh Meadows,712534436
+Glendale,1299175077
+Gowanus,4257387174
+Gramercy,5517033004
+Graniteville,54284732
+Grant City,167825010
+Gravesend,1683639753
+Great Kills,211343601
+Greenpoint,18155050434
+Greenwich Village,6653370829
+Grymes Hill,198243677
+Harlem,47113859448
+Hell's Kitchen,41406631290
+Highbridge,567316672
+Hollis,383239543
+Holliswood,80203350
+Howard Beach,519142898
+Howland Hook,28135834
+Huguenot,81353321
+Hunts Point,416541991
+Inwood,4643539589
+Jackson Heights,4040474050
+Jamaica,5574290616
+Jamaica Estates,491855260
+Jamaica Hills,238135020
+Kensington,2955224173
+Kew Gardens,648574943
+Kew Gardens Hills,632567501
+Kingsbridge,1436725979
+Kips Bay,9094505407
+Laurelton,436940570
+Lighthouse Hill,25294046
+Little Italy,2565593969
+Little Neck,138646996
+Long Island City,11223335806
+Longwood,1325069724
+Lower East Side,15620050492
+Manhattan Beach,97647833
+Marble Hill,205505284
+Mariners Harbor,170820290
+Maspeth,2482880427
+Melrose,280021901
+Middle Village,595730519
+Midland Beach,135506209
+Midtown,33201922615
+Midwood,2220643917
+Mill Basin,105025393
+Morningside Heights,5982659733
+Morris Heights,341811428
+Morris Park,360486946
+Morrisania,479982776
+Mott Haven,1327034268
+Mount Eden,99333549
+Mount Hope,417030370
+Murray Hill,10866159559
+Navy Yard,259937677
+Neponsit,51863796
+New Brighton,129700509
+New Dorp,23597323
+New Dorp Beach,144727898
+New Springville,186230133
+NoHo,1488283050
+Nolita,4166070693
+North Riverdale,242056995
+Norwood,622509164
+Oakwood,148687860
+Olinville,106615345
+Ozone Park,1401328064
+Park Slope,7260528974
+Parkchester,939859350
+Pelham Bay,413539046
+Pelham Gardens,657298703
+Port Morris,1162112153
+Port Richmond,182169888
+Prince's Bay,110232277
+Prospect Heights,4894047939
+Prospect-Lefferts Gardens,9173319594
+Queens Village,1381782693
+Randall Manor,442571310
+Red Hook,1437119793
+Rego Park,2349412279
+Richmond Hill,2156169334
+Richmondtown,12966225
+Ridgewood,9323794723
+Riverdale,204631911
+Rockaway Beach,1347705854
+Roosevelt Island,1493568167
+Rosebank,211586076
+Rosedale,1430963067
+Rossville,26258351
+Schuylerville,322104600
+Sea Gate,141256862
+Sheepshead Bay,3630205310
+Shore Acres,130156995
+Silver Lake,31651785
+SoHo,6638327419
+Soundview,325577506
+South Beach,197587320
+South Ozone Park,984436041
+South Slope,3883880198
+Springfield Gardens,2202444076
+Spuyten Duyvil,65429221
+St. Albans,1703698404
+St. George,961077162
+Stapleton,582682439
+Stuyvesant Town,870510953
+Sunnyside,7214808118
+Sunset Park,7499301019
+Theater District,7152654186
+Throgs Neck,661301517
+Todt Hill,104841735
+Tompkinsville,787525422
+Tottenville,127645045
+Tremont,194361968
+Tribeca,3485936298
+Two Bridges,1432980724
+Unionport,204523009
+University Heights,393775367
+Upper East Side,32493010223
+Upper West Side,33347676355
+Van Nest,281031965
+Vinegar Hill,644956999
+Wakefield,1279750046
+Washington Heights,16579172302
+West Brighton,339433507
+West Farms,39285881
+West Village,12690509774
+Westchester Square,283170266
+Westerleigh,41413683
+Whitestone,234493707
+Williamsbridge,914991612
+Williamsburg,68791112560
+Willowbrook,27088022
+Windsor Terrace,2451439898
+Woodhaven,2257452026
+Woodlawn,240872097
+Woodrow,1798271
+Woodside,5669109233
