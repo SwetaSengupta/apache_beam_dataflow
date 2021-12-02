@@ -123,7 +123,3 @@ def run(argv=None):
             write_disposition=beam.io.BigQueryDisposition.WRITE_APPEND,
             create_disposition=beam.io.BigQueryDisposition.CREATE_IF_NEEDED
         )
-
-if __name__ == '__main__':
-    logging.getLogger().setLevel(logging.INFO)
-    run()
